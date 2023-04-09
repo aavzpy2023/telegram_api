@@ -1,0 +1,14 @@
+{
+    "configurations": {
+        "test":{
+            "adapter": "vscode-python",
+            "configuration": {
+                "name": "testing ${file}",
+                "type": "python",
+                "request": "launch",
+                "python.pythonPath": "C:/Anaconda3/python",
+                "program": "./start_api.py"
+            }
+        }
+    }
+}
