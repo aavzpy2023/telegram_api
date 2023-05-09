@@ -1,2 +1,5 @@
 *.session
-telegram_api.py
+__pycache__
+*.pyc
+my_telegram_api.py
+.gitignore

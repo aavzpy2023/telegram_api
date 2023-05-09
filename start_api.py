@@ -3,9 +3,7 @@ Module to start api
 """
 import importlib
 import sys
-# import asyncio
-from telegram_api import client
-# start = True
+from my_telegram_api import client
 
 ex = 'n'
 
